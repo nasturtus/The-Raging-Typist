@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee+Shade|Poppins");
+
+.intro-copy {
+  color: white;
+  padding: 10%;
+  font-size: 400%;
+  font-family: "Bungee Shade", cursive;
+  color: white;
+}
+
+.landing-page-grid-container {
+  text-align: center;
+  margin: 200px;
+}
+
+.landing-page-button {
+  height: 50px;
+  width: 200px;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: black;
+  border: none;
+  border-radius: 30px;
+  color: yellow;
+  font-size: 100%;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.landing-page-button:hover {
+  background: rgb(80, 78, 78);
+  color: yellow;
+}
+
+.landing-page-button:focus {
+  outline: none;
+}
+
+.landing-page-link {
+  text-decoration: none;
+}
+
+a .landing-page-link:hover {
+  text-decoration: none;
+  color: white;
+}
