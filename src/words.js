@@ -1,0 +1,35 @@
+// contains seed data
+const words = [
+  "taichi in chai chee",
+  "coding blues",
+  "agile far from fragile",
+  "gordon the guru",
+  "mocha is not coffee",
+  "java is not a city",
+  "code for singapore",
+  "jest for pests",
+  "i dont get git",
+  "you dont know js",
+  "dont over react",
+  "javascript the gateway drug",
+  "python is not a snake",
+  "david loves chicken rice",
+  "huddle muddle",
+  "technical chops",
+  "computation nation",
+  "age of machine learning",
+  "thoughtworks works",
+  "keep coding",
+  "awesome jumpstart",
+  "back end of the world",
+  "artificial unintelligence",
+  "standup is not comedy",
+  "mac vs windows",
+  "dont spread virus",
+  "no rhythm algorithm",
+  "hacker or slacker",
+  "swear words for passwords",
+  "grammar lee"
+];
+
+export default words;
